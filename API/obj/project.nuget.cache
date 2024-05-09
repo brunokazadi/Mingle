@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "jMZ92VclVU95LSKAbbzzAfvyXioUi1M6P9GHbhTtmM0Jm22PW4YIrRyHo5HywapPGeqtB01Edxdbg4iE8r7Wlg==",
-  "success": false,
+  "dgSpecHash": "QKGEsNNoN7G25dZJ0k+S+1o3RstRHcZHiBlC6smzR9IHzwCT/Bq+PI2wOtznP/NrDU91XuJJBQlBhyjcbMveDg==",
+  "success": true,
   "projectFilePath": "C:\\Users\\kbrun\\Desktop\\csharp-workspace\\Mingle\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kbrun\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
@@ -9,7 +9,6 @@
     "C:\\Users\\kbrun\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kbrun\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\kbrun\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\kbrun\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\kbrun\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\kbrun\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\kbrun\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
@@ -63,15 +62,5 @@
     "C:\\Users\\kbrun\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\kbrun\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1107",
-      "level": "Error",
-      "message": "Version conflict detected for MediatR. Install/reference MediatR 12.2.0 directly to project API to resolve this issue. \r\n API -> Application -> MediatR (>= 12.2.0) \r\n API -> MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 -> MediatR (>= 11.0.0 && < 12.0.0).",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

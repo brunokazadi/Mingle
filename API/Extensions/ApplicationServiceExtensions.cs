@@ -4,7 +4,7 @@ using Application.Activities;
 using Application.Core;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
+
 using Persistence;
 
 namespace API.Extensions
@@ -28,7 +28,7 @@ namespace API.Extensions
                     policy.AllowAnyMethod().AllowAnyHeader().WithOrigins("http://localhost:3000");
                 });
             });
-            services.AddMediatR(typeof(List.Handler));
+            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<List.Handler>());
             services.AddAutoMapper(typeof(MappingProfiles).Assembly);
 
             return services;

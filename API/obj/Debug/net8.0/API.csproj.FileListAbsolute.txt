@@ -131,3 +131,8 @@ C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\bin\Debug\net8.0\ru\Microsoft
 C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\bin\Debug\net8.0\MediatR.dll
+C:\Users\kbrun\Desktop\csharp-workspace\Mingle\API\bin\Debug\net8.0\MediatR.Contracts.dll
